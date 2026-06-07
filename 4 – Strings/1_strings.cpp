@@ -6,6 +6,7 @@ Topics covered:
 */
 
 #include <iostream>
+#include <string>
 
 int main()
 {

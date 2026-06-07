@@ -3,6 +3,7 @@ author: aditya.mishra10@nmims.in
 
 Topics covered:
     - strings
+    - taking multi word input
 */
 
 #include <iostream>
@@ -34,3 +35,5 @@ int main()
     return 0; 
 
 }
+
+

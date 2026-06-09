@@ -15,6 +15,6 @@ What's covered:
 
 int main() // here, "int" means the main function will produce an integr value
 {
-    std::cout << "Hello world!"; //std::cout -> standard::char output (c-out). "<<" allow us to display information on the console
+    std::cout << "Hello world!"; //std::cout -> standard::char output (c-out). 
     return 0; 
 }
